@@ -1,7 +1,6 @@
 # Hi, I'm Jeremy! 👋
 
-I'm a full-stack developer from Greater Philadelphia who lives and breathes code. I build intuitive, scalable applications with a diverse toolbox of modern technologies—and I'm always exploring new ways to push boundaries. When I'm not coding, I'm tinkering with new ideas, sharpening my design chops, or contributing to open source.
-
+I'm a full-stack developer from Greater Philadelphia who loves to code. I build intuitive, scalable applications with a diverse toolbox of modern technologies—and I'm always exploring new ways to push boundaries. When I'm not coding, I'm tinkering with new ideas, or sharpening my design chops.
 ---
 
 ## 🚀 My Toolbox & Tech Stack
