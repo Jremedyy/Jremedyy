@@ -6,7 +6,7 @@ I'm a full-stack developer from Greater Philadelphia who loves to code. I build 
 ## 🚀 My Toolbox & Tech Stack
 
 ### Front-End
-<p align="left" display="flex" justify-content="center>
+<p align="left" justify-content="center>
   <img alt="TypeScript" width="50px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img alt="JavaScript" width="50px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img alt="HTML5" width="50px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -46,9 +46,6 @@ I'm a full-stack developer from Greater Philadelphia who loves to code. I build 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Jremedyy">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jremedyy&show_icons=true&theme=default" />
-  </a>
   <a href="https://github.com/Jremedyy">
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jremedyy&layout=compact" />
   </a>
