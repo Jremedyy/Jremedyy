@@ -75,7 +75,7 @@ I'm a full-stack developer from Greater Philadelphia who loves to code. I build 
 ## 🌐 Explore & Connect
 
 - **Portfolio & Projects:** [jeremybiagiotti.tech](https://jeremybiagiotti.tech)
-- **Resume & Detailed Skills:** [Resume_Jeremy_Biagiotti_FS.pdf](Resume_Jeremy_Biagiotti_FS.pdf)
+- **Resume & Detailed Skills:** [Resume_Jeremy_Biagiotti_FS.pdf](https://documents.jeremybiagiotti.tech/Resume_Jeremy_Biagiotti_Public.pdf)
 - **Visitor Count:**  
   ![Visitor Count](https://profile-counter.glitch.me/Jremedyy/count.svg)
 
